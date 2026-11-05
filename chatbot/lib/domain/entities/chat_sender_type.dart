@@ -1,0 +1,1 @@
+enum ChatSenderType { user, bot }
